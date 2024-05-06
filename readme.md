@@ -6,3 +6,5 @@ Todo:
 - Decide one of the papers you want to replicate
 - What do we want to focus on?
 - next meeting monday after ml
+
+*Next Meeting 13 may*
