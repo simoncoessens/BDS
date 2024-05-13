@@ -6,4 +6,8 @@ Todo:
 - Decide one of the papers you want to replicate
 - What do we want to focus on?
 
-**Next Meeting 13 may**
+**Meeting 13 may**:
+- node classification Simon
+- link prediction Gabriel
+
+
